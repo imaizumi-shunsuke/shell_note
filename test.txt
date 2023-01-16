@@ -1,0 +1,8 @@
+This
+is
+a
+input
+file
+for
+my_template.sh
+.
